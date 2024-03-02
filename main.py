@@ -171,7 +171,7 @@ if 'messages' not in st.session_state:
   st.session_state['messages']=[]
   
   
-st.title('Zayed\'s Stock Analysis Chatbot')
+st.title('Mithun\'s Stock Analysis Chatbot')
 
 user_input=st.text_input('Your Input: ')
 
